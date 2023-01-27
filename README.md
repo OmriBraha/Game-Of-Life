@@ -1,4 +1,8 @@
 <h1> 🦠 Conway's Game of Life in Java 🧬 </h1>
+<p>
+  <img src="https://img.shields.io/badge/language-Java-orange.svg" alt="Java">
+  <img src="https://img.shields.io/badge/GUI-JavaFX-blue.svg" alt="JavaFX">
+</p>
 <h2> Introduction </h2>
 <p>Welcome to my implementation of John Conway's Game of Life, written in Java and using JavaFX for graphics. This program simulates the evolution of a "cellular automaton" based on a set of simple rules, resulting in a fascinating display of patterns and emergent behavior.</p>
 
